@@ -6,7 +6,7 @@
 }
 
 body {
-  background-image: url('../images/background.png');
+  background-image: url('../images/background.jpeg');
   background-repeat: no-repeat; /* you know... don't repeat... */
   background-position: center center; /*center the background */
   background-attachment: fixed; /*don't scroll with content */
