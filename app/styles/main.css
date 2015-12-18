@@ -33,7 +33,7 @@ body {
 
 .content {
   color: #111;
-  max-width: 60%;
+  max-width: 90%;
   font-size: 2em;
 }
 
@@ -90,6 +90,9 @@ body {
 
     padding-bottom: 30px;
   }
+  .content {
+    max-width: 60%;
+  }
 
   .header,
   .content,
@@ -100,7 +103,7 @@ body {
 
   /* Space out the masthead */
   .header {
-    margin-bottom: 30px;
+    margin-bottom: 5px;
   }
 
   /* Remove the bottom border on the jumbotron for visual effect */
@@ -112,16 +115,9 @@ body {
 /* Medium Devices, Desktops */
 @media only screen and (min-width: 992px) {
 
-  .big-front-text {
-    font-size: 9em;
-    letter-spacing: -9px;
-  }
 }
 
 /* Large Devices, Wide Screens */
 @media only screen and (min-width: 1200px) {
-  .big-front-text {
-    font-size: 10em;
-    letter-spacing: -10px;
-  }
+
 }
