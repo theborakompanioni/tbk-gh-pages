@@ -1,7 +1,6 @@
-# theborakompanionigithubio
+[![Build Status](https://travis-ci.org/theborakompanioni/tbk-gh-pages.svg?branch=master)](https://travis-ci.org/theborakompanioni/tbk-gh-pages)
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.15.1.
+# theborakompanioni.github.io
 
 ## Build & development
 
